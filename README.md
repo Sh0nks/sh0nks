@@ -1,4 +1,4 @@
-![Background](https://github.com/ninjac0py/ninjac0py/imgs/bg.jpg)
+![Background](https://github.com/ninjac0py/ninjac0py/blob/master/imgs/bg.jpg)
 
 
 
